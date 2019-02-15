@@ -1,6 +1,6 @@
 Copyright @ Liang-yu Charles Chen
 Department of computer science and engineering, The Hong Kong University of Science and technology
-Courtersy of Google DeepLab
+Courtesy of Google DeepLab
 
 
 
