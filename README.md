@@ -4,4 +4,12 @@ Hackers, please add your model under ./code and create our own folder for the ve
 
 Testing images are located under ./sample_img. There are few to select from. Feel free to push any other images as possible and name it in the order of "image1", "image2" etc. 
 
+Last Update Feb 25, 2019
+
+Convolutional AutoEncoder Trained for MNIST dataset has been uploaded. It super strong in terms of MNist dataset.
+The model will further be trained for inpainting purpose, and serve as an function to extract high-level spatial feature for the input conditional image of CDCGAN.
+
+Here are some training results of CAE: https://hkustconnect-my.sharepoint.com/personal/lchenbg_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flchenbg_connect_ust_hk%2FDocuments%2FAttachments%2FFYP%2Ezip&parent=%2Fpersonal%2Flchenbg_connect_ust_hk%2FDocuments%2FAttachments
+(note: fig 5000 above are reduntant figures. The model does not improve but overfits after it. The test result of reconsturction can be seen in figure infer.jpg)
+
 Dataset Access: to be uploaded
