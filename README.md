@@ -12,4 +12,14 @@ The model will further be trained for inpainting purpose, and serve as an functi
 Here are some training results of CAE: https://hkustconnect-my.sharepoint.com/personal/lchenbg_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flchenbg_connect_ust_hk%2FDocuments%2FAttachments%2FFYP%2Ezip&parent=%2Fpersonal%2Flchenbg_connect_ust_hk%2FDocuments%2FAttachments
 (note: fig 5000 above are reduntant figures. The model does not improve but overfits after it. The test result of reconsturction can be seen in figure infer.jpg)
 
-Dataset Access: to be uploaded
+MNIST Inpainting dataset has been uploaded to https://hkustconnect-my.sharepoint.com/personal/lchenbg_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flchenbg%5Fconnect%5Fust%5Fhk%2FDocuments%2FAttachments%2Fmnist%5Finpainting%2Enpz&parent=%2Fpersonal%2Flchenbg%5Fconnect%5Fust%5Fhk%2FDocuments%2FAttachments
+usage: 
+$data = numpy.load("mnist_inpainting.npz")$
+$train_X = data['x']$
+$train_y = data['y']$
+
+X contains the corrupted image and y contains the original one.
+
+CDCGAN model will be tested using this data first, then further developed to nature images.
+
+Charles
