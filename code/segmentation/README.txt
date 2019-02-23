@@ -6,5 +6,5 @@ Courtesy of Google DeepLab
 
 Segmentation model usage:
 
-python3 segmentation.py ../../sample_img/image1.jpg ../models/seg_graph.pb
+python3 segmentation.py ../../sample_img/image1.jpg ./models/seg_graph.pb
 
