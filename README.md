@@ -25,6 +25,7 @@ CDCGAN model will be tested using this data first, then further developed to nat
 
 DCGAN results available here: https://hkustconnect-my.sharepoint.com/personal/lchenbg_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flchenbg_connect_ust_hk%2FDocuments%2FAttachments%2Ffigs%2Ezip&parent=%2Fpersonal%2Flchenbg_connect_ust_hk%2FDocuments%2FAttachments\
 
+Nature image inpainting can be found here: 
 
 The networkw works well on MNIST data set.\
 
