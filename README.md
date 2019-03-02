@@ -36,3 +36,5 @@ Apirl ~ May => Done model training on nature images. GUI developement\
 
 And someone read this plz https://publik.tuwien.ac.at/files/PubDat_201970.pdf
 and this: http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf
+
+"Extension: Perspective image inpainting using perspective invariant features"
