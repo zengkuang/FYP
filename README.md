@@ -25,6 +25,7 @@ CDCGAN model will be tested using this data first, then further developed to nat
 
 DCGAN results available here: https://hkustconnect-my.sharepoint.com/personal/lchenbg_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flchenbg_connect_ust_hk%2FDocuments%2FAttachments%2Ffigs%2Ezip&parent=%2Fpersonal%2Flchenbg_connect_ust_hk%2FDocuments%2FAttachments\
 
+Nature image inpainting can be found here:  http://chalearnlap.cvc.uab.es/dataset/30/description/
 
 The networkw works well on MNIST data set.\
 
@@ -33,3 +34,7 @@ Future development plan:\
 March ~ April => Tune models on Nature Image\
 Apirl ~ May => Done model training on nature images. GUI developement\
 
+And someone read this plz https://publik.tuwien.ac.at/files/PubDat_201970.pdf
+and this: http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Generative_Image_Inpainting_CVPR_2018_paper.pdf
+
+"Extension: Perspective image inpainting using perspective invariant features"
